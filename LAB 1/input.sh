@@ -3,5 +3,3 @@
 read myName
 # Substitute the variable and print the text
 echo "Hello ${myName}"
-
-./output.sh
