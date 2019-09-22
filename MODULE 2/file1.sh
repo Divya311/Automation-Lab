@@ -8,7 +8,10 @@ more /var/log/syslog | grep $log_application > $archive_location/$archive_name.t
 
 cd $archive_location
 
-echo "File archived is : "
-tar -cvf $archive_name.tar $archive_name.txt
+tar -cf $archive_name.tar $archive_name.txt
 
 rm $archive_name.txt
+
+echo ""
+echo ""
+echo "File archived is : $archive_name and is located at $archive_location"
