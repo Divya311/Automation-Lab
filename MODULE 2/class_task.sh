@@ -19,27 +19,20 @@ echo ""
 echo ""
 read -e -p "Location to delete : " loc
 
-if [ $loc == $loc1 ]
-then
+
 for file in $loc2/*;
 do
 for test in $loc1/*;
 do
-cmp --silent $file $test && rm $test && tar -rf test.tar $file
-done
-done
-fi
-
-if [ $loc == $loc2 ]
+if [ $loc == $loc1 ]
 then
-for file in $loc1/*;
-do
-for test in $loc2/*;
-do
 cmp --silent $file $test && rm $test && tar -rf test.tar $file
-done
-done
+elif [ $loc == $loc2 ]
+then
+cmp --silent $file $test && rm $file && tar -rf test.tar $test
 fi
+done
+done
 
 echo ""
 echo "Files deleted and identical stored in archive"
