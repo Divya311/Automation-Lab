@@ -1,4 +1,5 @@
 #bin/bash
+# code to delete same files from two different directories.
 
 read -e -p "Location 1 : " loc1
 read -e -p "Location 2 : " loc2
