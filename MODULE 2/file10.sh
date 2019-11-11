@@ -4,7 +4,7 @@ then
 echo "No inputs send via command line!! Exiting" >&2; exit 1;
 fi
 path=$1
-path1="/home/ubuntu/Desktop/Automation-using-Shell-Scripts/ScenariosFullChapter2/"
+path1="/home/kshitiz/MODULE2/"
 if [ -d $path ]
 then
 rm -r $path
