@@ -8,8 +8,25 @@
 ### Implementation tree
 ```
 Automation Lab
-├── BASIC LINUX COMMANDS
-│   └── Screenshots                       # Contains various screenshots of executed shell scripts
+├── Automation Scripts (Module 2)
+|   ├── class_tasks.sh                    # Delete same file from two directories
+|   ├── file1.sh                          # Archiving logs
+|   ├── file2.sh                          # Auto discard old archives
+|   ├── file3.sh                          # MySQL backup
+|   ├── file4.sh                          # Email web server summary
+|   ├── file5.sh                          # Ensuring web server is running
+|   ├── file6.sh                          # User command validation
+|   ├── file6_copy.sh                     # User command validation
+|   ├── file7.sh                          # Disk Usage alarm
+|   ├── file8.sh                          # Sending file to trash
+|   ├── file9.sh                          # Restoring file to trash
+|   ├── file10.sh                         # Logging delete action
+|   ├── file11.sh                         # File formatter
+|   ├── file12_file13.sh                  # Encrypting and Decrypting files
+|   ├── file14.sh                         # System Information
+|   ├── file15.sh                         # Bulk file downloader
+|   ├── file16.sh                         # Installing LAMP Stack
+│   └── file17.sh                         # Get NIC's IP
 ├── CLASS VIVA
 │   └── viva1a.sh                         # Logging cron actions and archiving them
 ├── INTERNALS
