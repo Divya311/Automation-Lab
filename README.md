@@ -9,6 +9,7 @@
 ```
 Automation Lab
 ├── Automation Scripts (Module 2)
+|   ├── screenshots                       # Screenshots of working Automation Scripts
 |   ├── class_tasks.sh                    # Delete same file from two directories
 |   ├── file1.sh                          # Archiving logs
 |   ├── file2.sh                          # Auto discard old archives
@@ -26,7 +27,8 @@ Automation Lab
 |   ├── file14.sh                         # System Information
 |   ├── file15.sh                         # Bulk file downloader
 |   ├── file16.sh                         # Installing LAMP Stack
-│   └── file17.sh                         # Get NIC's IP
+│   ├── file17.sh                         # Get NIC's IP
+│   └── scenario9.png                     # Logging delete action using .bashrc
 ├── CLASS VIVA
 │   └── viva1a.sh                         # Logging cron actions and archiving them
 ├── INTERNALS
@@ -76,7 +78,7 @@ Automation Lab
 │   └── file1.cpp                         # Merge Sort
 ├── make and makefile
 │   └── activityselection.c               # Activity selection Problem
-│ 
+│
 ├── DA Lab Manual.pdf                             # Fully implemented singly linked list
 │
 └── SCENARIO5.pdf                             # Progrma to calculate power
