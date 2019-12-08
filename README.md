@@ -29,15 +29,7 @@ Automation Lab
 |   ├── file16.sh                         # Installing LAMP Stack
 │   ├── file17.sh                         # Get NIC's IP
 │   └── scenario9.png                     # Logging delete action using .bashrc
-├── CLASS VIVA
-│   └── viva1a.sh                         # Logging cron actions and archiving them
-├── INTERNALS
-|   ├── prob1.sh                          # Logging job schedulers
-|   ├── prob2.sh                          # Logging system logs
-|   ├── prob3.sh                          # Removing old files
-|   ├── prob4.sh                          # Removing archives older than 2 days
-│   └── prob5.sh                          # Mailing disk usage
-├── LAB 1
+├── Basic Scripts
 |   ├── basicif.sh                        # If in shell script
 |   ├── function.sh                       # Functions in shell script
 |   ├── hello.sh                          # Hello message using some linux commands
@@ -47,6 +39,14 @@ Automation Lab
 |   ├── output.sh                         # Using echo
 |   ├── switchcase.sh                     # Using switch case in shell
 │   └── variable.sh                       # Variables in Shell Script
+├── CLASS VIVA
+│   └── viva1a.sh                         # Logging cron actions and archiving them
+├── INTERNALS
+|   ├── prob1.sh                          # Logging job schedulers
+|   ├── prob2.sh                          # Logging system logs
+|   ├── prob3.sh                          # Removing old files
+|   ├── prob4.sh                          # Removing archives older than 2 days
+│   └── prob5.sh                          # Mailing disk usage
 ├── LAB MANUAL
 │   └── exp2.sh                           # Using errors in shell
 ├── LAB WORK
