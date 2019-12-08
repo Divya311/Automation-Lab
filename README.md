@@ -39,8 +39,12 @@ Automation Lab
 |   ├── output.sh                         # Using echo
 |   ├── switchcase.sh                     # Using switch case in shell
 │   └── variable.sh                       # Variables in Shell Script
-├── CLASS VIVA
-│   └── viva1a.sh                         # Logging cron actions and archiving them
+├── MAKE & MAKEFILE
+|   ├── 1. Makefile                       # Logging job schedulers
+|   ├── 2. Building Binary                # Logging system logs
+|   ├── 3. Automatic rebuild              # Removing old files
+|   ├── 4. Creating Logs                  # Removing archives older than 2 days
+│   └── Screenshots                       # Mailing disk usage
 ├── INTERNALS
 |   ├── prob1.sh                          # Logging job schedulers
 |   ├── prob2.sh                          # Logging system logs
