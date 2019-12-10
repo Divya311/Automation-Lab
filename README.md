@@ -69,16 +69,16 @@ Automation Lab
 |       └── 4.png                         # Creating Logs
 |
 ├── PROBLEM_WHATSAPP
-|   ├── prob1.sh                          #
-|   ├── prob2.sh                          #
-|   ├── prob3.sh                          #
-|   ├── prob4.sh                          #
-|   ├── prob5.sh                          #
-|   ├── prob6.sh                          #
-|   ├── prob7.sh                          #
-|   ├── prob8.sh                          #
-|   ├── prob9.sh                          #
-|   └── prob10.sh                         #
+|   ├── prob1.sh                          # Hexadecimal to Binary
+|   ├── prob2.sh                          # Octal to Binary
+|   ├── prob3.sh                          # Checking Palindrome
+|   ├── prob4.sh                          # Checking Perfect
+|   ├── prob5.sh                          # Checking armstrong
+|   ├── prob6.sh                          # Printing DO
+|   ├── prob7.sh                          # Printing DA
+|   ├── prob8.sh                          # Hexadecimal to Octal
+|   ├── prob9.sh                          # Octal to Hexadecimal
+|   └── prob10.sh                         # Decimal to Hexadecimal
 |
 ├── LAB MANUAL
 │   └── exp2.sh                           # Using errors in shell
