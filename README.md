@@ -48,18 +48,18 @@ Automation Lab
 |   |   ├── mymath.h                      # Header file to add functions
 |   |   └── subtract.c                    # Function to subtract
 |   ├── 1. Makefile
-|   |   ├── basicif.sh                        # If in shell script
-|   |   └── function.sh                       # Functions in shell script
-|   ├── 2. Building Binary                # Logging system logs
-|   |   ├── input.sh                          # Taking input
-|   |   ├── ladderif.sh                       # If-else statements
-|   |   └── nestedif.sh                       # Nested if statements
-|   ├── 3. Automatic rebuild              # Removing old files
-|   |   ├── ladderif.sh                       # If-else statements
-|   |   └── nestedif.sh                       # Nested if statements
-|   ├── 4. Creating Logs                  # Removing archives older than 2 days
-|   |   ├── ladderif.sh                       # If-else statements
-|   |   └── nestedif.sh                       # Nested if statements
+|   |   ├── Makefile                      # Makefile
+|   |   └── mycalculator                  # Executable after make
+|   ├── 2. Building Binary
+|   |   ├── Makefile                      # Makefile
+|   |   ├── mycalculator                  # Executable after make
+|   |   └── newmake.mk                    # .mk file
+|   ├── 3. Automatic rebuild              
+|   |   ├── Makefile                      # Makefile
+|   |   └── mycalculator                  # Executable after make
+|   ├── 4. Creating Logs
+|   |   ├── Makefile                      # Makefile
+|   |   └── mycalculator                  # Executable after make
 │   └── Screenshots                       # Mailing disk usage
 |       ├── hello.sh                          # Hello message using some linux commands
 |       ├── input.sh                          # Taking input
