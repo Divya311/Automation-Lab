@@ -83,9 +83,23 @@ Automation Lab
 ├── Screenshots                           # Contains screenshots of various executions
 │
 ├── Some other scripts
-│   └── file1.cpp                         # Insertion and deletion in array
+|   ├── prob1.sh                          # Hexadecimal to Binary
+|   ├── prob2.sh                          # Octal to Binary
+|   ├── prob3.sh                          # Checking Palindrome
+|   ├── prob4.sh                          # Checking Perfect
+|   ├── prob5.sh                          # Checking armstrong
+|   ├── prob1.sh                          # Hexadecimal to Binary
+|   ├── prob2.sh                          # Octal to Binary
+|   ├── prob3.sh                          # Checking Palindrome
+|   ├── prob4.sh                          # Checking Perfect
+|   ├── prob5.sh                          # Checking armstrong
+|   ├── prob6.sh                          # Printing DO
+|   ├── prob7.sh                          # Printing DA
+|   ├── prob8.sh                          # Hexadecimal to Octal
+|   ├── prob9.sh                          # Octal to Hexadecimal
+|   └── prob10.sh                         # Decimal to Hexadecimal
 │
-├── DA Lab Manual.pdf                             # Fully implemented singly linked list
+├── DA Lab Manual.pdf                     # Lab file
 │
-└── SCENARIO5.pdf                             # Progrma to calculate power
+└── SCENARIO5.pdf                         # Presentation of SCENARIO-5 Module-2
 ```
