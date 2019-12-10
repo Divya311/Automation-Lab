@@ -68,20 +68,6 @@ Automation Lab
 |       ├── 3.png                         # Automatic Rebuild
 |       └── 4.png                         # Creating Logs
 |
-├── INTERNALS
-|   ├── prob1.sh                          # Logging job schedulers
-|   ├── prob2.sh                          # Logging system logs
-|   ├── prob3.sh                          # Removing old files
-|   ├── prob4.sh                          # Removing archives older than 2 days
-│   └── prob5.sh                          # Mailing disk usage
-├── LAB MANUAL
-│   └── exp2.sh                           # Using errors in shell
-├── LAB WORK
-│   ├── Screenshots                       # Contains various screenshots of executed shell scripts
-├── MAKE AND MAKEFILE
-│   └── !-- Needs to be updated from here --
-├── MODULE 2
-│   └── activityselection.c               # Activity selection Problem
 ├── PROBLEM_WHATSAPP
 |   ├── 0-1 knapsack.cpp                  # 0-1 Knapsack problem
 |   ├── bubblesort.c                      # Bubble Sort
@@ -92,8 +78,16 @@ Automation Lab
 |   ├── quicksort.cpp                     # Quick Sort
 |   ├── selecrionsort.c                   # Selection Sort
 |   ├── selecrionsort2.c                  # Selection Sort
-|   ├── strassen's matrix multi.cpp       # Strassen's Matrix Multiplication
 |   └── test.cpp                          # Using printf
+|
+├── LAB MANUAL
+│   └── exp2.sh                           # Using errors in shell
+├── LAB WORK
+│   ├── Screenshots                       # Contains various screenshots of executed shell scripts
+├── MAKE AND MAKEFILE
+│   └── !-- Needs to be updated from here --
+├── MODULE 2
+│   └── activityselection.c               # Activity selection Problem
 ├── Shell Scripting
 │   └── file1.cpp                         # Insertion and deletion in array
 ├── make and makefile (3rd copy)
