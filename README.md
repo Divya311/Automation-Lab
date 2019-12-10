@@ -29,6 +29,7 @@ Automation Lab
 |   ├── file16.sh                         # Installing LAMP Stack
 │   ├── file17.sh                         # Get NIC's IP
 │   └── scenario9.png                     # Logging delete action using .bashrc
+|
 ├── Basic Scripts
 |   ├── basicif.sh                        # If in shell script
 |   ├── function.sh                       # Functions in shell script
@@ -39,6 +40,7 @@ Automation Lab
 |   ├── output.sh                         # Using echo
 |   ├── switchcase.sh                     # Using switch case in shell
 │   └── variable.sh                       # Variables in Shell Script
+|
 ├── MAKE & MAKEFILE
 |   ├── 0. Code
 |   |   ├── add.c                         # Function to add
@@ -65,6 +67,7 @@ Automation Lab
 |       ├── 2.png                         # Building Binary
 |       ├── 3.png                         # Automatic Rebuild
 |       └── 4.png                         # Creating Logs
+|
 ├── INTERNALS
 |   ├── prob1.sh                          # Logging job schedulers
 |   ├── prob2.sh                          # Logging system logs
