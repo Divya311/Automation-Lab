@@ -40,11 +40,31 @@ Automation Lab
 |   ├── switchcase.sh                     # Using switch case in shell
 │   └── variable.sh                       # Variables in Shell Script
 ├── MAKE & MAKEFILE
-|   ├── 1. Makefile                       # Logging job schedulers
+|   ├── 0. Code
+|   |   ├── add.c                         # Function to add
+|   |   ├── divide.c                      # Function to devide
+|   |   ├── main.c                        # Main program
+|   |   ├── multiply.c                    # Function to multiply
+|   |   ├── mymath.h                      # Header file to add functions
+|   |   └── subtract.c                    # Function to subtract
+|   ├── 1. Makefile
+|   |   ├── basicif.sh                        # If in shell script
+|   |   └── function.sh                       # Functions in shell script
 |   ├── 2. Building Binary                # Logging system logs
+|   |   ├── input.sh                          # Taking input
+|   |   ├── ladderif.sh                       # If-else statements
+|   |   └── nestedif.sh                       # Nested if statements
 |   ├── 3. Automatic rebuild              # Removing old files
+|   |   ├── ladderif.sh                       # If-else statements
+|   |   └── nestedif.sh                       # Nested if statements
 |   ├── 4. Creating Logs                  # Removing archives older than 2 days
+|   |   ├── ladderif.sh                       # If-else statements
+|   |   └── nestedif.sh                       # Nested if statements
 │   └── Screenshots                       # Mailing disk usage
+|       ├── hello.sh                          # Hello message using some linux commands
+|       ├── input.sh                          # Taking input
+|       ├── ladderif.sh                       # If-else statements
+|       └── nestedif.sh                       # Nested if statements
 ├── INTERNALS
 |   ├── prob1.sh                          # Logging job schedulers
 |   ├── prob2.sh                          # Logging system logs
