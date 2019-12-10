@@ -69,16 +69,16 @@ Automation Lab
 |       └── 4.png                         # Creating Logs
 |
 ├── PROBLEM_WHATSAPP
-|   ├── 0-1 knapsack.cpp                  # 0-1 Knapsack problem
-|   ├── bubblesort.c                      # Bubble Sort
-|   ├── insertion sort.c                  # Insertion Sort
-|   ├── knapsack.cpp                      # Knapsack problem
-|   ├── ll.c                              # Basic Linked List
-|   ├── mergesort.c                       # Merge Sort
-|   ├── quicksort.cpp                     # Quick Sort
-|   ├── selecrionsort.c                   # Selection Sort
-|   ├── selecrionsort2.c                  # Selection Sort
-|   └── test.cpp                          # Using printf
+|   ├── prob1.sh                          #
+|   ├── prob2.sh                          #
+|   ├── prob3.sh                          #
+|   ├── prob4.sh                          #
+|   ├── prob5.sh                          #
+|   ├── prob6.sh                          #
+|   ├── prob7.sh                          #
+|   ├── prob8.sh                          #
+|   ├── prob9.sh                          #
+|   └── prob10.sh                         #
 |
 ├── LAB MANUAL
 │   └── exp2.sh                           # Using errors in shell
