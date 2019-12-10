@@ -82,23 +82,8 @@ Automation Lab
 |
 ├── Screenshots                           # Contains screenshots of various executions
 │
-├── LAB WORK
-│   ├── Screenshots                       # Contains various screenshots of executed shell scripts
-├── MAKE AND MAKEFILE
-│   └── !-- Needs to be updated from here --
-├── MODULE 2
-│   └── activityselection.c               # Activity selection Problem
-├── Shell Scripting
+├── Some other scripts
 │   └── file1.cpp                         # Insertion and deletion in array
-├── make and makefile (3rd copy)
-│   └── file1.cpp                         # Calculating Airthmetic Series
-├── make and makefile (another copy)
-│   ├── file1.cpp                         # Searching in array
-│   ├── file2.cpp                         # Maximum Subarray Sum
-├── make and makefile (copy)
-│   └── file1.cpp                         # Merge Sort
-├── make and makefile
-│   └── activityselection.c               # Activity selection Problem
 │
 ├── DA Lab Manual.pdf                             # Fully implemented singly linked list
 │
