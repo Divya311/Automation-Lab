@@ -80,8 +80,8 @@ Automation Lab
 |   ├── prob9.sh                          # Octal to Hexadecimal
 |   └── prob10.sh                         # Decimal to Hexadecimal
 |
-├── LAB MANUAL
-│   └── exp2.sh                           # Using errors in shell
+├── Screenshots                           # Contains screenshots of various executions
+│
 ├── LAB WORK
 │   ├── Screenshots                       # Contains various screenshots of executed shell scripts
 ├── MAKE AND MAKEFILE
