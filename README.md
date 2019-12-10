@@ -60,11 +60,11 @@ Automation Lab
 |   ├── 4. Creating Logs
 |   |   ├── Makefile                      # Makefile
 |   |   └── mycalculator                  # Executable after make
-│   └── Screenshots                       # Mailing disk usage
-|       ├── hello.sh                          # Hello message using some linux commands
-|       ├── input.sh                          # Taking input
-|       ├── ladderif.sh                       # If-else statements
-|       └── nestedif.sh                       # Nested if statements
+│   └── Screenshots
+|       ├── 1.png                         # Makefile
+|       ├── 2.png                         # Building Binary
+|       ├── 3.png                         # Automatic Rebuild
+|       └── 4.png                         # Creating Logs
 ├── INTERNALS
 |   ├── prob1.sh                          # Logging job schedulers
 |   ├── prob2.sh                          # Logging system logs
