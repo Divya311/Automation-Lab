@@ -1,6 +1,4 @@
-<div align="center">
-  <img src="https://github.com/kshitizsaini113/Automation-Lab/blob/master/devauto.png">
-</div>
+
 
 # Development Automation
 
